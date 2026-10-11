@@ -1,46 +1,46 @@
-<h1 align="center">Hi 👋, I'm Prince Yadav</h1>
-<h3 align="center">B.Tech CSE Student | MERN Stack Developer | Building Projects & Learning DSA</h3>
+<!-- ============ HEADER (animated wave) ============ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Prince%20Yadav&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20GenAI%20Explorer&descAlignY=60&descSize=18" width="100%" alt="header" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B+I'm+Prince+Yadav;B.Tech+CSE+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%9A%80;Solving+DSA+in+Java+%E2%98%95;Building+AI-Powered+Projects+%F0%9F%A4%96;Consistency+beats+talent+%F0%9F%92%AA" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=princeyadav0007&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="views" /> <img src="https://img.shields.io/github/followers/princeyadav0007?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="followers" /> <img src="https://img.shields.io/github/stars/princeyadav0007?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="stars" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeyadav0007&label=Profile%20views&color=0e75b6&style=flat" alt="princeyadav0007" /> </p>
+<br/><br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeyadav0007" alt="princeyadav0007" /></a> </p>
+<a href="https://princeyadavport.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-24C6DC?style=for-the-badge&logoColor=white" /></a> <a href="https://linkedin.com/in/prince-yadav-47201029b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.leetcode.com/princeyadav0007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="mailto:princeyadav8864888798@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1uj_AIEfFQFRpxosS8L9rKkJDpJvXGlgw/view?usp=drivesdk"><img src="https://img.shields.io/badge/📄_Resume-302b63?style=for-the-badge" /></a>
 
-- 🔭 I’m currently working on [AI-Powered Multi Language Translator](https://ai-multi-language-translator-5klyuxfy9axnjfeqtweqc8.streamlit.app/)
+</div> <br/> <!-- ============ ABOUT ============ -->
+👨‍💻 About Me
+<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="coding" />
+js
+const prince = {
+  name: "Prince Yadav",
+  role: "B.Tech CSE Student | MERN Stack Developer",
+  currentlyBuilding: "AI-Powered Multi Language Translator 🌍",
+  currentlyLearning: ["Advanced JavaScript", "DSA in Java", "Full Stack Web Dev", "Generative AI"],
+  askMeAbout: ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs"],
+  lookingFor: ["Collaboration on Portfolio", "Help with Code-Throne"],
+  funFact: "Every bug I fix makes me a better developer 🐛➡️🦋"
+};
+<br/>
+🔭 Currently working on AI-Powered Multi Language Translator
+🌱 Learning Advanced JavaScript, DSA (Java), Full Stack Development & Generative AI
+👯 Open to collaborate on my Portfolio
+🤝 Looking for help with Code-Throne
+📝 I write about my learning journey, web dev projects, JavaScript concepts & DSA problem solving
+📫 Reach me at princeyadav8864888798@gmail.com
+<br/> <!-- ============ TECH STACK ============ -->
+🛠️ Tech Stack
+<div align="center">
 
-- 🌱 I’m currently learning **Advanced JavaScript, Data Structures & Algorithms (Java), Full Stack Web Development, and Generative AI.**
+Frontend<br/> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" /><br/><br/> Backend & Database<br/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,django&theme=dark" /><br/><br/> Languages & Tools<br/> <img src="https://skillicons.dev/icons?i=c,java,py,git,github,vscode,postman&theme=dark" />
 
-- 👯 I’m looking to collaborate on [Portfolio](https://princeyadavport.netlify.app/)
+</div> <br/> <!-- ============ GITHUB STATS ============ -->
+📊 GitHub Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=princeyadav0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeyadav0007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" /> <br/> <img src="https://streak-stats.demolab.com?user=princeyadav0007&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc" /> </div> <br/> <!-- ============ ACTIVITY GRAPH ============ -->
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeyadav0007&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&area_color=24c6dc&hide_border=true&custom_title=Prince%27s%20Contribution%20Graph" width="100%" /> </div> <br/> <!-- ============ TROPHIES ============ -->
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=princeyadav0007&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" /> </div> <br/> <!-- ============ SNAKE ============ -->
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/princeyadav0007/princeyadav0007/output/github-snake-dark.svg" alt="snake animation" width="100%" /> </div> <br/> <!-- ============ QUOTE ============ --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&pause=2000&color=24C6DC&center=true&vCenter=true&width=600&lines=%22Consistency+beats+talent.%22;%22Code+%E2%86%92+Debug+%E2%86%92+Learn+%E2%86%92+Repeat.%22;%22Let's+build+something+awesome+together!%22" /> <br/>
+🤝 Let's Connect
 
-- 🤝 I’m looking for help with **Code-Throne**
+<a href="https://twitter.com/theprinceyadav9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/prince-yadav-47201029b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/theprinceyadav___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.youtube.com/c/princeyadavlord"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://fb.com/princeyadav8864"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://discord.gg/DzzKhkUeQ5"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-- 👨‍💻 All of my projects are available at [https://princeyadavport.netlify.app/](https://princeyadavport.netlify.app/)
-
-- 📝 I regularly write articles on [my learning journey, web development projects, JavaScript concepts, and DSA problem-solving experiences.](my learning journey, web development projects, JavaScript concepts, and DSA problem-solving experiences.)
-
-- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs, and Full Stack Web Development.**
-
-- 📫 How to reach me **princeyadav8864888798@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uj_AIEfFQFRpxosS8L9rKkJDpJvXGlgw/view?usp=drivesdk](https://drive.google.com/file/d/1uj_AIEfFQFRpxosS8L9rKkJDpJvXGlgw/view?usp=drivesdk)
-
-- ⚡ Fun fact **I believe consistency beats talent, and every bug I fix makes me a better developer.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theprinceyadav9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theprinceyadav9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince-yadav-47201029b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-yadav-47201029b" height="30" width="40" /></a>
-<a href="https://fb.com/princeyadav8864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="princeyadav8864" height="30" width="40" /></a>
-<a href="https://instagram.com/theprinceyadav___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theprinceyadav___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/princeyadavlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="princeyadavlord" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/princeyadav0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princeyadav0007" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/DzzKhkUeQ5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/DzzKhkUeQ5" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeyadav0007&show_icons=true&locale=en&layout=compact" alt="princeyadav0007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeyadav0007&show_icons=true&locale=en" alt="princeyadav0007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeyadav0007&" alt="princeyadav0007" /></p>
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
